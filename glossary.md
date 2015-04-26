@@ -2,6 +2,8 @@
 
 "Smart Cities/Living Lab - TEAM 4, Bryan Wilson & Devon Coffey"
 
+2015
+
 <dl>
 <dt><b>Anonymization</b></dt>
 <dd>The process of adapting data so that individuals cannot be identified from it.,http://opendatahandbook.org/pdf/OpenDataHandbook.pdf
